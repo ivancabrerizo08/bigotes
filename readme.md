@@ -11,4 +11,4 @@ Para clonarlo:
 git clone https://github.com/ivancabrerizo08/bigotes.git
 ```
 Plantilla: [Free website templates](https://freewebsitetemplates.com).
-Autor: Ivans
+Autor: Ivan
